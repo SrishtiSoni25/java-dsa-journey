@@ -1,0 +1,32 @@
+class Solution {
+    public boolean backspaceCompare(String s, String t) {
+
+        StringBuilder result1 = new StringBuilder();
+        int hashCount = 0;
+
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s.charAt(i) == '#') {
+                hashCount++;
+            } else if (hashCount > 0) {
+                hashCount--;
+            } else {
+                result1.insert(0, s.charAt(i));
+            }
+        }
+
+        StringBuilder result2 = new StringBuilder();
+        hashCount = 0;
+
+        for (int i = t.length() - 1; i >= 0; i--) {
+            if (t.charAt(i) == '#') {
+                hashCount++;
+            } else if (hashCount > 0) {
+                hashCount--;
+            } else {
+                result2.insert(0, t.charAt(i));
+            }
+        }
+
+        return result1.toString().equals(result2.toString());
+    }
+}
