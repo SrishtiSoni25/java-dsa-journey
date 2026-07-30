@@ -154,3 +154,19 @@ Every solved problem represents one step toward becoming a better software engin
 ### ⭐ Keep Learning • Keep Building • Keep Coding ⭐
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+<!---LeetCode Topics End-->
