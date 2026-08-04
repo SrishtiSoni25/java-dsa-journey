@@ -212,4 +212,12 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
