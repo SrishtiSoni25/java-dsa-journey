@@ -194,6 +194,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -230,6 +231,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
