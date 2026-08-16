@@ -280,4 +280,8 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0089-gray-code/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
