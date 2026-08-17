@@ -283,5 +283,6 @@ Every solved problem represents one step toward becoming a better software engin
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0178-rank-scores](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0178-rank-scores/) | Medium |
 | [0182-duplicate-emails](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
