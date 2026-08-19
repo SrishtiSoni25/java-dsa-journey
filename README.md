@@ -264,18 +264,22 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
