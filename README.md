@@ -167,6 +167,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
