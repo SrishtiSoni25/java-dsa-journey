@@ -204,6 +204,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
+| [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3731-find-missing-elements/) | Easy |
@@ -235,6 +236,7 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,10 +249,12 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0155-min-stack/) | Medium |
+| [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0155-min-stack/) | Medium |
+| [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,4 +312,12 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0035-search-insert-position/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
