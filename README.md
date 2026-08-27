@@ -223,6 +223,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -241,6 +242,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 ## Two Pointers
@@ -249,12 +251,14 @@ Every solved problem represents one step toward becoming a better software engin
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
