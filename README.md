@@ -164,6 +164,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0089-gray-code](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0089-gray-code/) | Medium |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -308,6 +309,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0089-gray-code/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
