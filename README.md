@@ -197,6 +197,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -208,6 +209,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -258,6 +260,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
