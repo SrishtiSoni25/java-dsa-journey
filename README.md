@@ -231,6 +231,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [3731-find-missing-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
