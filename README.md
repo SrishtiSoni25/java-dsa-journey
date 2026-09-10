@@ -311,11 +311,13 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +328,7 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
