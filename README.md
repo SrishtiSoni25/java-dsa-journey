@@ -176,6 +176,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0071-simplify-path/) | Medium |
 | [0520-detect-capital](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -287,6 +288,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0071-simplify-path/) | Medium |
 | [0155-min-stack](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
