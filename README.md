@@ -177,6 +177,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0071-simplify-path/) | Medium |
+| [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
 | [0520-detect-capital](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0541-reverse-string-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0771-jewels-and-stones/) | Easy |
@@ -408,4 +409,28 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
