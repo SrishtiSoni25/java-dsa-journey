@@ -176,6 +176,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
@@ -260,6 +261,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0062-unique-paths/) | Medium |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -297,6 +299,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -437,6 +440,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
