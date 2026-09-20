@@ -183,6 +183,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
 | [0520-detect-capital](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0541-reverse-string-ii/) | Easy |
+| [0647-palindromic-substrings](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -264,6 +265,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0005-longest-palindromic-substring](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0062-unique-paths/) | Medium |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
+| [0647-palindromic-substrings](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
 ## Recursion
@@ -308,6 +310,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0234-palindrome-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0541-reverse-string-ii/) | Easy |
+| [0647-palindromic-substrings](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
