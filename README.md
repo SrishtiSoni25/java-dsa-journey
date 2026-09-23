@@ -187,6 +187,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0520-detect-capital](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0647-palindromic-substrings/) | Medium |
@@ -218,6 +219,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -241,6 +243,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -471,4 +474,8 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
