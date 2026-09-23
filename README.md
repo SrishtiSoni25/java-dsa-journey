@@ -182,6 +182,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0071-simplify-path](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0214-shortest-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0214-shortest-palindrome/) | Hard |
+| [0242-valid-anagram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0520-detect-capital](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0647-palindromic-substrings/) | Medium |
@@ -211,6 +212,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -224,6 +226,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0015-3sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
