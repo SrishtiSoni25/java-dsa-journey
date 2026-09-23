@@ -167,6 +167,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0728-self-dividing-numbers](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
+| [2600-k-items-with-the-maximum-sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -205,6 +206,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0680-valid-palindrome-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2600-k-items-with-the-maximum-sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Hash Table
