@@ -257,6 +257,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
@@ -327,6 +328,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0151-reverse-words-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0541-reverse-string-ii/) | Easy |
