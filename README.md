@@ -171,6 +171,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -269,6 +270,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
