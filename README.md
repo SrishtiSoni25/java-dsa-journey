@@ -181,6 +181,7 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
@@ -339,6 +340,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0155-min-stack/) | Medium |
@@ -445,6 +447,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
