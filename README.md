@@ -398,6 +398,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0089-gray-code/) | Medium |
+| [0191-number-of-1-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -453,6 +454,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0191-number-of-1-bits/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
