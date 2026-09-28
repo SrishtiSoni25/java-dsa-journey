@@ -225,6 +225,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0242-valid-anagram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0771-jewels-and-stones/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -248,6 +249,7 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -267,6 +269,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
 | [0665-non-decreasing-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0665-non-decreasing-array/) | Medium |
 | [0860-lemonade-change](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0860-lemonade-change/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
