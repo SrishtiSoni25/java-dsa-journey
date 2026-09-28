@@ -259,6 +259,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
@@ -355,6 +356,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
