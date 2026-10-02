@@ -5,9 +5,7 @@ class Solution {
             return false;
         }
 
-        int x = (int)(Math.log(n) / Math.log(4));
-
-        if (Math.pow(4, x) == n) {
+        if ((n & (n - 1)) == 0 && (n - 1) % 3 == 0) {
             return true;
         }
 
