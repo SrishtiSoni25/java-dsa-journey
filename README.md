@@ -413,6 +413,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0089-gray-code/) | Medium |
+| [0190-reverse-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0342-power-of-four](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -472,6 +473,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0191-number-of-1-bits/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
