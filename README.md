@@ -164,6 +164,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0089-gray-code](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0342-power-of-four](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -416,6 +417,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0190-reverse-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0342-power-of-four](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Database
 | Problem Name | Difficulty |
