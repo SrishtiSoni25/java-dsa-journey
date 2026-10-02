@@ -264,6 +264,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0035-search-insert-position](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0136-single-number](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
@@ -414,6 +415,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0089-gray-code/) | Medium |
+| [0136-single-number](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0342-power-of-four](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0342-power-of-four/) | Easy |
