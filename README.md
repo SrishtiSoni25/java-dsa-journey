@@ -185,6 +185,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0005-longest-palindromic-substring](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
@@ -297,6 +298,7 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0062-unique-paths/) | Medium |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0647-palindromic-substrings/) | Medium |
@@ -357,6 +359,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0155-min-stack/) | Medium |
@@ -474,6 +477,7 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Divide and Conquer
