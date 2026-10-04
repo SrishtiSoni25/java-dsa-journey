@@ -205,6 +205,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -367,6 +368,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +441,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
