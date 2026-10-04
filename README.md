@@ -220,6 +220,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0860-lemonade-change](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Hash Table
@@ -251,6 +252,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
@@ -286,6 +288,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
