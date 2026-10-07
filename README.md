@@ -285,6 +285,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
 | [0665-non-decreasing-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0665-non-decreasing-array/) | Medium |
+| [0735-asteroid-collision](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0860-lemonade-change/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
@@ -376,6 +377,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0735-asteroid-collision](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -453,6 +455,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0844-backspace-string-compare/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
