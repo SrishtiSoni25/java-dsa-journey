@@ -208,6 +208,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -239,6 +240,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -265,6 +267,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -443,6 +446,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0342-power-of-four](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
