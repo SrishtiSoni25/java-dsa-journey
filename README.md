@@ -300,6 +300,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -407,6 +408,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Combinatorics
