@@ -261,6 +261,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3731-find-missing-elements/) | Easy |
@@ -298,6 +299,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [1472-design-browser-history](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1472-design-browser-history/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -465,6 +467,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
