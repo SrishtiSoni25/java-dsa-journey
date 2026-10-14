@@ -256,6 +256,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0015-3sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
@@ -281,6 +282,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -364,6 +366,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0016-3sum-closest](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -466,6 +469,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Simulation
@@ -566,4 +570,8 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0547-number-of-provinces/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
