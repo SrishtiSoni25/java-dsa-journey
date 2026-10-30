@@ -300,6 +300,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0665-non-decreasing-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0665-non-decreasing-array/) | Medium |
 | [0735-asteroid-collision](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0860-lemonade-change/) | Easy |
@@ -509,6 +510,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
