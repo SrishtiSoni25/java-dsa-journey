@@ -238,6 +238,7 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0217-contains-duplicate/) | Easy |
@@ -294,6 +295,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0016-3sum-closest](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -616,4 +618,8 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
