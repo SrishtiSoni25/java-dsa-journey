@@ -240,6 +240,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0242-valid-anagram/) | Easy |
@@ -299,6 +300,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0049-group-anagrams](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -593,6 +595,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
