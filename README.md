@@ -332,6 +332,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -434,6 +435,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0209-minimum-size-subarray-sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Enumeration
@@ -529,6 +531,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0424-longest-repeating-character-replacement](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
