@@ -248,6 +248,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0387-first-unique-character-in-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -316,6 +317,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0493-reverse-pairs/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0665-non-decreasing-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0665-non-decreasing-array/) | Medium |
@@ -435,6 +437,7 @@ Every solved problem represents one step toward becoming a better software engin
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
