@@ -213,6 +213,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
