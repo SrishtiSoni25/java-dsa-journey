@@ -233,6 +233,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -334,6 +335,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
