@@ -226,6 +226,7 @@ Every solved problem represents one step toward becoming a better software engin
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -297,6 +298,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -399,6 +401,7 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
