@@ -280,6 +280,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0455-assign-cookies](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0561-array-partition/) | Easy |
+| [0853-car-fleet](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0853-car-fleet/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -329,6 +330,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0643-maximum-average-subarray-i](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0665-non-decreasing-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0665-non-decreasing-array/) | Medium |
 | [0735-asteroid-collision](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0735-asteroid-collision/) | Medium |
+| [0853-car-fleet](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0860-lemonade-change/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1406-stone-game-iii/) | Hard |
@@ -433,6 +435,7 @@ Every solved problem represents one step toward becoming a better software engin
 | [0234-palindrome-linked-list](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0735-asteroid-collision](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0844-backspace-string-compare/) | Easy |
+| [0853-car-fleet](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0853-car-fleet/) | Medium |
 | [0856-score-of-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -668,4 +671,5 @@ Every solved problem represents one step toward becoming a better software engin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0853-car-fleet](https://github.com/SrishtiSoni25/java-dsa-journey/tree/main/0853-car-fleet/) | Medium |
 <!---LeetCode Topics End-->
